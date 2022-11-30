@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution3 {
     public int LengthOfLongestSubstring(string s) {
         Dictionary<char,int> dict =   new Dictionary<char,int>();
         
